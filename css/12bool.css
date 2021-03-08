@@ -40,7 +40,7 @@
 
 /* Container */
 .container {
-    width: 1170px;
+    max-width: 1170px;
     margin: 0 auto;
 }
 
@@ -95,7 +95,7 @@
     }
 
     /* lg Hidden */
-    .col-lg-hidden {
+    .lg-hidden {
         display: none;
     }   
     
@@ -180,7 +180,7 @@
     }
 
     /* md Hidden */
-    .col-md-hidden {
+    .md-hidden {
         display: none;
     }
 
@@ -263,7 +263,7 @@
     }
 
     /* xs Hidden */
-    .col-xs-hidden {
+    .xs-hidden {
         display: none;
     }
 
